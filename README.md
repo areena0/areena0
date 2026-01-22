@@ -3,7 +3,7 @@
 ## 👩‍💻 Featured Projects
 
 - **Don’t Look Back (Unreal Engine)** — First-person psychological horror game focused on parkour, maze exploration, and atmospheric tension
-- **Where-the-Runes-Whisper** — A browser-based psychological horror maze game built with Phaser 3.
+- **Where the Runes Whisper** — A browser-based psychological horror maze game built with Phaser 3.
 - **Emotion Weaver – Fate by Feelings** — Narrative-driven visual novel built in C++ with SFML  
 - **Biohazard Escape** — Console-based grid survival game written in C++  
 - **Console Car Demo** — Real-time ASCII console demo with keyboard input and WAV audio  
